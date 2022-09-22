@@ -11,3 +11,4 @@ let count=0;
  return false;
 }
  console.log(prime(13))
+
