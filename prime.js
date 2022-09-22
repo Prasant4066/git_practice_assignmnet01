@@ -10,8 +10,5 @@ let count=0;
  }
  return false;
 }
-let ans=prime(13);
-if(ans==true){
-  console.log("Prime)
- }else{
- console.log("Not Prime")
+ console.log(prime(13))
+
